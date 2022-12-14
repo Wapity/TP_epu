@@ -1,1 +1,1 @@
-# TP Masterclass for Practical Deep Learning 
+# TP Masterclass for Deep Learning 
